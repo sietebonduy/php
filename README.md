@@ -30,7 +30,8 @@
     <li>Свое сообщение об ошибке</li>
 </ul>
 Переданный отзыв вывел на экран в виде таблицы
-![screenshot3](https://user-images.githubusercontent.com/68066382/165632506-c4a0bbd4-142e-4613-82a0-1b2cd4fbfa7d.png)
+![screenshot3](https://user-images.githubusercontent.com/68066382/165636697-fb0abbf6-e9a6-42e5-8714-1c3cf62c5ff6.png)
+
 
 <h3>Задание 2</h3>
 Создал базу данных yii2 и таблицы авторы, книги и жанры в phpmyadmin. (db.sql находится в папке sql)
@@ -45,7 +46,7 @@
     <li>Создал форму для добавление нового автора.</li>
     <li>Создал форму для удаления автора из таблицы.</li>
 </ul>
-![Uploading screenshot2.png…]()
+
 
 
 
